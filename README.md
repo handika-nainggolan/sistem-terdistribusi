@@ -94,4 +94,4 @@ npm start
 
 **Handika Pratama Nainggolan**
 
-GitHub: :contentReference[oaicite:0]{index=0}
+GitHub: :handika-nainggolan
